@@ -1,0 +1,17 @@
+.img1
+{
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px;
+}
+
+.btn1
+{
+    align-content: center;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+}
